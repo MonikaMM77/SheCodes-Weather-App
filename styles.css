@@ -54,3 +54,9 @@ li {
 .search-form {
   margin-bottom: 15px;
 }
+
+footer {
+  text-align: center;
+  font-style: italic;
+  color: #7c7c7c;
+}
